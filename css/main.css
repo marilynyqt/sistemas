@@ -1,7 +1,7 @@
-*
+/**
 {
    border: solid 1px rgb(196, 86, 86);
-}
+}*/
 /*------------------menu-----------------*/
 .bg-color {
    background-color: #4c0983!important;
@@ -19,4 +19,46 @@
 .carousel-item img
 {
    height: 619px;
+}
+/*------------------fin carrusel-----------------*/
+/*------------------secciones-----------------*/
+.container
+{
+   margin: 80px; 
+}
+.texto
+{
+   color: white;
+   padding:70px 0px;
+   text-align: center;
+   background: url(../imagenes/texto}.jpg) no-repeat center center fixed;
+   background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+.field__item
+{
+   padding: 20px;
+   border:solid 3px yellow ;
+}
+.malla
+{
+   text-decoration:none;
+   display:inline;
+   border:0;
+   padding:0;
+   margin:0;
+   text-decoration:underline;
+   background:none;
+   color:#000088;
+   font-family: arial, sans-serif;
+   font-size: 1em;
+   line-height:1em;
+}
+.malla:hover 
+{
+  text-decoration:none;
+  color:#0000cc;
+  cursor:pointer;
 }

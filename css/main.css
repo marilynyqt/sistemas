@@ -40,7 +40,7 @@
 .field__item
 {
    padding: 20px;
-   border:solid 3px yellow ;
+   border:solid 3px rgb(10, 112, 116) ;
 }
 .malla
 {
@@ -61,4 +61,8 @@
   text-decoration:none;
   color:#0000cc;
   cursor:pointer;
+}
+.header-ciclo
+{
+   color: rgb(97, 10, 100);
 }

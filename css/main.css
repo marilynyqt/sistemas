@@ -1,0 +1,22 @@
+*
+{
+   border: solid 1px rgb(196, 86, 86);
+}
+/*------------------menu-----------------*/
+.bg-color {
+   background-color: #4c0983!important;
+}
+.nav-item a:hover
+{
+   background-color: #22097c!important;
+} 
+.titulo
+{
+   font-family: 'Source Code Pro', monospace;
+}
+/*------------------fin--menu-----------------*/
+/*------------------carrusel-----------------*/
+.carousel-item img
+{
+   height: 619px;
+}
